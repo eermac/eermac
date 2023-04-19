@@ -12,4 +12,9 @@
   <li>Age: 26.</li>
   <li>Education: higher technical education (Russian State Social University) 2016-2020</li>
   <li>Hobbies: аthletics, chess, games, programming.</li>
+  <li>Contacts: </li>
+    <ul>
+    <li>Telegram: @EMErmachenkov</li>
+    <li>Email: ermac.e@yandex.ru</li>
+    </ul>
 </ul>
